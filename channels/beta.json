@@ -1,0 +1,565 @@
+{
+ "built": "2026-11-23T11:28:54Z",
+ "channel": "beta",
+ "commit": "f4c682ab8ed8668c241025adaf592bb19c194a49",
+ "files": {
+  "Hugin.cmd": {
+   "gz": 619,
+   "sha256": "ed44598c4eadbd7f56d57e193485798f41fbc74246f83709283e0b0a9877d851",
+   "size": 1385,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/ed44598c4eadbd7f56d57e193485798f41fbc74246f83709283e0b0a9877d851.gz"
+  },
+  "Odin.cmd": {
+   "gz": 619,
+   "sha256": "ed44598c4eadbd7f56d57e193485798f41fbc74246f83709283e0b0a9877d851",
+   "size": 1385,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/ed44598c4eadbd7f56d57e193485798f41fbc74246f83709283e0b0a9877d851.gz"
+  },
+  "bin/bookticker_fetch.py": {
+   "gz": 3412,
+   "sha256": "331596715efc2101d785149a483978591fc4f2753f036c1fc52c09e4ba7b8adc",
+   "size": 8334,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/331596715efc2101d785149a483978591fc4f2753f036c1fc52c09e4ba7b8adc.gz"
+  },
+  "bin/glass_map_fetch.py": {
+   "gz": 16250,
+   "sha256": "e4b9c87dd16916dd90ee75de90a8c5d8d35a275a77d7945cfea46e1d1f632891",
+   "size": 52391,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/e4b9c87dd16916dd90ee75de90a8c5d8d35a275a77d7945cfea46e1d1f632891.gz"
+  },
+  "bin/hugin_update.pub": {
+   "gz": 66,
+   "sha256": "159f5885ddf39c581b165e5937cad1d697299396f530dd1f6f0a93bcfcb5ec0f",
+   "size": 46,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/159f5885ddf39c581b165e5937cad1d697299396f530dd1f6f0a93bcfcb5ec0f.gz"
+  },
+  "bin/hugin_update.py": {
+   "gz": 7968,
+   "sha256": "8058a07409e8f055b6c431b6d13a4defa8722dfc9abefdd132ba3af142ddc46b",
+   "size": 23963,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/8058a07409e8f055b6c431b6d13a4defa8722dfc9abefdd132ba3af142ddc46b.gz"
+  },
+  "bin/liq_collector.exe": {
+   "gz": 170377,
+   "sha256": "43df7dd6ccbac10d7fced6684976dd8e97956a59b8af8672842328c84e7c0536",
+   "size": 442880,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/43df7dd6ccbac10d7fced6684976dd8e97956a59b8af8672842328c84e7c0536.gz"
+  },
+  "bin/liq_window.exe": {
+   "gz": 174803,
+   "sha256": "e805025e716cb1496fb2a46403ad9b9009e565cb4613e28cd128771fbcbcd3cc",
+   "size": 447488,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/e805025e716cb1496fb2a46403ad9b9009e565cb4613e28cd128771fbcbcd3cc.gz"
+  },
+  "bin/manip_lane_fetch.py": {
+   "gz": 4060,
+   "sha256": "478126bde446166b86c905d80ba77fbd132498f8e0d0ce0fe938a90fa6450042",
+   "size": 10600,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/478126bde446166b86c905d80ba77fbd132498f8e0d0ce0fe938a90fa6450042.gz"
+  },
+  "bin/mark_funding_fetch.py": {
+   "gz": 3593,
+   "sha256": "c518efe911cf34ed02b90688218d51b5017bc55e3e27279e51ee68764403e7cd",
+   "size": 9645,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/c518efe911cf34ed02b90688218d51b5017bc55e3e27279e51ee68764403e7cd.gz"
+  },
+  "bin/oi_fast_fetch.py": {
+   "gz": 2631,
+   "sha256": "4f8b2519022a542d4aa10e5ec62677cea7fb9b97884bcc4613fa346ee14bf2e9",
+   "size": 6398,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/4f8b2519022a542d4aa10e5ec62677cea7fb9b97884bcc4613fa346ee14bf2e9.gz"
+  },
+  "bin/raylib.dll": {
+   "gz": 824136,
+   "sha256": "c62606798c3f736b479db7721aed884102060541b743fd81be3e687ac6de3e67",
+   "size": 1905152,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/c62606798c3f736b479db7721aed884102060541b743fd81be3e687ac6de3e67.gz"
+  },
+  "bin/strategies/odin_example_rsi.py": {
+   "gz": 994,
+   "sha256": "7f624f8c04e9801457f8a246198e92bab628963c689c328fb6f667ccf207054a",
+   "size": 2583,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/7f624f8c04e9801457f8a246198e92bab628963c689c328fb6f667ccf207054a.gz"
+  },
+  "bin/terminal7.exe": {
+   "gz": 6539370,
+   "sha256": "7f9c126db6ca7c1fafa6d20f30b41d2539987ce09a0613f721231ace0488066c",
+   "size": 9953280,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/7f9c126db6ca7c1fafa6d20f30b41d2539987ce09a0613f721231ace0488066c.gz"
+  },
+  "bin/tester_lib/blocks.py": {
+   "gz": 18971,
+   "sha256": "3fae452bb4629132698007576c26878279adb7ac7f6e51e65ddcf6ca0d6c1dd8",
+   "size": 72162,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/3fae452bb4629132698007576c26878279adb7ac7f6e51e65ddcf6ca0d6c1dd8.gz"
+  },
+  "bin/tester_lib/ideas.py": {
+   "gz": 5108,
+   "sha256": "c853369a3abc681863cedc32b98325d48c6fe387eb86742b3f49fd91244424c7",
+   "size": 17316,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/c853369a3abc681863cedc32b98325d48c6fe387eb86742b3f49fd91244424c7.gz"
+  },
+  "bin/userind_run.py": {
+   "gz": 12346,
+   "sha256": "5f5e54d9551c5f083fb4e000dfd026a5a65abf88d67151f7c8a4109ee665cc1c",
+   "size": 39810,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/5f5e54d9551c5f083fb4e000dfd026a5a65abf88d67151f7c8a4109ee665cc1c.gz"
+  },
+  "bridge/bridge.py": {
+   "gz": 17817,
+   "sha256": "73e5381cd0bb9751986d1fa962d415900f7f0747b5a96df9ee06564bf364fba3",
+   "size": 64285,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/73e5381cd0bb9751986d1fa962d415900f7f0747b5a96df9ee06564bf364fba3.gz"
+  },
+  "bridge/bridge_config.json": {
+   "gz": 72,
+   "keep": true,
+   "sha256": "77119c0a6b7ffc26ba3c83f3731d113098e354b34140b9304a5ee96e964b99b0",
+   "size": 57,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/77119c0a6b7ffc26ba3c83f3731d113098e354b34140b9304a5ee96e964b99b0.gz"
+  },
+  "bridge/deskcore/__init__.py": {
+   "gz": 93,
+   "sha256": "f82b9dfc55b59ce242d6564280b66a33fb05966f98962a506c5de4746dcdf5ae",
+   "size": 74,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/f82b9dfc55b59ce242d6564280b66a33fb05966f98962a506c5de4746dcdf5ae.gz"
+  },
+  "bridge/deskcore/acctsetup.py": {
+   "gz": 4111,
+   "sha256": "c06c4eab90cd3fed856be623dab73beb3c58e743245b18f1e788fe63c111957a",
+   "size": 10499,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/c06c4eab90cd3fed856be623dab73beb3c58e743245b18f1e788fe63c111957a.gz"
+  },
+  "bridge/deskcore/bridge_reload.py": {
+   "gz": 676,
+   "sha256": "dfb6beaa4451c1d5d3e1622cd8f75c69518f96328992a3cc3b4bc717e2e65e32",
+   "size": 1166,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/dfb6beaa4451c1d5d3e1622cd8f75c69518f96328992a3cc3b4bc717e2e65e32.gz"
+  },
+  "bridge/deskcore/decimals.py": {
+   "gz": 723,
+   "sha256": "698e06eb5aa528e791087a2649f1e6d75a699a18698df6a8be07ff3ababcc0e6",
+   "size": 1835,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/698e06eb5aa528e791087a2649f1e6d75a699a18698df6a8be07ff3ababcc0e6.gz"
+  },
+  "bridge/deskcore/errors.py": {
+   "gz": 384,
+   "sha256": "0ba173e618981f1eda4d4c1f01b3e8f279dad08a173e85f5663ce630198ef09e",
+   "size": 848,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/0ba173e618981f1eda4d4c1f01b3e8f279dad08a173e85f5663ce630198ef09e.gz"
+  },
+  "bridge/deskcore/exit_grid.py": {
+   "gz": 1434,
+   "sha256": "deefbd24311aab7b560942a8a5aba47b530ca9b70780b13c2d14d80a7074cabd",
+   "size": 3916,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/deefbd24311aab7b560942a8a5aba47b530ca9b70780b13c2d14d80a7074cabd.gz"
+  },
+  "bridge/deskcore/rust_engine.py": {
+   "gz": 7717,
+   "sha256": "5d52e5605e0da4617d75b2d2303f83c31d286ce8c795f2edbfcdead3a74531cf",
+   "size": 28996,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/5d52e5605e0da4617d75b2d2303f83c31d286ce8c795f2edbfcdead3a74531cf.gz"
+  },
+  "bridge/deskcore/scalper_desk.py": {
+   "gz": 19004,
+   "sha256": "dc89a3c2ace496975f4c8088cefcff207bf1cf120040713d931a33540dd1395e",
+   "size": 79017,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/dc89a3c2ace496975f4c8088cefcff207bf1cf120040713d931a33540dd1395e.gz"
+  },
+  "bridge/deskcore/scalper_link.py": {
+   "gz": 5493,
+   "sha256": "9a84eaac49e65d8621c9aa156ccf919162f60bcfce43ce14a1148c5cff8c694d",
+   "size": 17091,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/9a84eaac49e65d8621c9aa156ccf919162f60bcfce43ce14a1148c5cff8c694d.gz"
+  },
+  "bridge/deskcore/screener_cabinet.py": {
+   "gz": 16856,
+   "sha256": "1a043d87045aa2c59b44642856740f1b50fb3e69cced315a775f4def70541c1c",
+   "size": 62305,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/1a043d87045aa2c59b44642856740f1b50fb3e69cced315a775f4def70541c1c.gz"
+  },
+  "bridge/deskcore/socks_exchange.py": {
+   "gz": 2338,
+   "sha256": "ffe9604071ac7d9fe6455f98766e4d98300a5fa8735ee9b3c3b875bd0c017ac4",
+   "size": 6588,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/ffe9604071ac7d9fe6455f98766e4d98300a5fa8735ee9b3c3b875bd0c017ac4.gz"
+  },
+  "bridge/engine_payload/engine/Cargo.lock": {
+   "gz": 14597,
+   "sha256": "8a4d156f5f1f924eb555ce73f097128e352bd6378008ff819dfc6e23d7cdf2a4",
+   "size": 61081,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/8a4d156f5f1f924eb555ce73f097128e352bd6378008ff819dfc6e23d7cdf2a4.gz"
+  },
+  "bridge/engine_payload/engine/Cargo.toml": {
+   "gz": 702,
+   "sha256": "f47396b8d366340c5c55d1b30c10b070d45ae88ab70017f8fa0d411b216c20dd",
+   "size": 1236,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/f47396b8d366340c5c55d1b30c10b070d45ae88ab70017f8fa0d411b216c20dd.gz"
+  },
+  "bridge/engine_payload/engine/build.rs": {
+   "gz": 177,
+   "sha256": "979819f265328a64f217cf25b3eeff850895239c1d3e9d352cc0fdd46872950f",
+   "size": 205,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/979819f265328a64f217cf25b3eeff850895239c1d3e9d352cc0fdd46872950f.gz"
+  },
+  "bridge/engine_payload/engine/src/account_orchestrator.rs": {
+   "gz": 7519,
+   "sha256": "9d0fe5e19a376dac4096221b064bebf82f6e5024953f6f3147e9798278b0e843",
+   "size": 30847,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/9d0fe5e19a376dac4096221b064bebf82f6e5024953f6f3147e9798278b0e843.gz"
+  },
+  "bridge/engine_payload/engine/src/auth.rs": {
+   "gz": 408,
+   "sha256": "dc76fa768221a6f31730d34417fe79c6736108b150956addd63272add3b08870",
+   "size": 567,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/dc76fa768221a6f31730d34417fe79c6736108b150956addd63272add3b08870.gz"
+  },
+  "bridge/engine_payload/engine/src/engine.rs": {
+   "gz": 14456,
+   "sha256": "a2eaf46df7c39d7f402a571723d343302703dcfcd983501efb38ee599a10471e",
+   "size": 67228,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/a2eaf46df7c39d7f402a571723d343302703dcfcd983501efb38ee599a10471e.gz"
+  },
+  "bridge/engine_payload/engine/src/gates.rs": {
+   "gz": 3175,
+   "sha256": "226eeaa504ab8ed2303fb9c8bfec323520061daddd9f20d997bf2ade74660c1a",
+   "size": 10819,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/226eeaa504ab8ed2303fb9c8bfec323520061daddd9f20d997bf2ade74660c1a.gz"
+  },
+  "bridge/engine_payload/engine/src/grid.rs": {
+   "gz": 1475,
+   "sha256": "9c5585cf1339810cd66dd3ed28dce76284c0f1f86360c5010a02996cfe96632b",
+   "size": 4073,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/9c5585cf1339810cd66dd3ed28dce76284c0f1f86360c5010a02996cfe96632b.gz"
+  },
+  "bridge/engine_payload/engine/src/grid_scale.rs": {
+   "gz": 3873,
+   "sha256": "ac9061f825d5b8c0b13cbc2d2f4e55e1e56677df6837091b6d8e1a4dc37e9d2a",
+   "size": 12822,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/ac9061f825d5b8c0b13cbc2d2f4e55e1e56677df6837091b6d8e1a4dc37e9d2a.gz"
+  },
+  "bridge/engine_payload/engine/src/ip_pause.rs": {
+   "gz": 1030,
+   "sha256": "63a17d32b704a9c4e8b7482ee851eed498b3c05874035e9d73410bf963159ff0",
+   "size": 2247,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/63a17d32b704a9c4e8b7482ee851eed498b3c05874035e9d73410bf963159ff0.gz"
+  },
+  "bridge/engine_payload/engine/src/main.rs": {
+   "gz": 21271,
+   "sha256": "4e4b53af50830b4b812dbbb1b7ecf3c8d434516fcf99352aa3d12b8eb2797ac5",
+   "size": 109621,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/4e4b53af50830b4b812dbbb1b7ecf3c8d434516fcf99352aa3d12b8eb2797ac5.gz"
+  },
+  "bridge/engine_payload/engine/src/market_data.rs": {
+   "gz": 2526,
+   "sha256": "3409490c7b542a0571b0cf4b23f9c95900ac0099d008d8f85b51ea9c62d6691c",
+   "size": 7844,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/3409490c7b542a0571b0cf4b23f9c95900ac0099d008d8f85b51ea9c62d6691c.gz"
+  },
+  "bridge/engine_payload/engine/src/market_data_manager.rs": {
+   "gz": 1832,
+   "sha256": "063cb8e224ebcb0751c2f56eee836460dca1fc980fef0dd26b3aea8a4c96453a",
+   "size": 6618,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/063cb8e224ebcb0751c2f56eee836460dca1fc980fef0dd26b3aea8a4c96453a.gz"
+  },
+  "bridge/engine_payload/engine/src/mode.rs": {
+   "gz": 224,
+   "sha256": "25bc62d698c05fde0b936fc44bfefa293ef24fa58106753baab893905037b22f",
+   "size": 328,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/25bc62d698c05fde0b936fc44bfefa293ef24fa58106753baab893905037b22f.gz"
+  },
+  "bridge/engine_payload/engine/src/order_manager.rs": {
+   "gz": 14810,
+   "sha256": "44ec3e746dcf321197f65f7fd9745bc91c63dc50bc432f7d84ad64cd7cec5dc5",
+   "size": 74283,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/44ec3e746dcf321197f65f7fd9745bc91c63dc50bc432f7d84ad64cd7cec5dc5.gz"
+  },
+  "bridge/engine_payload/engine/src/risk_manager.rs": {
+   "gz": 2730,
+   "sha256": "9e67ffb221193d05196310b8bc290c0cdff4d58972dfa9e9238f9ee72c48f4f9",
+   "size": 13533,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/9e67ffb221193d05196310b8bc290c0cdff4d58972dfa9e9238f9ee72c48f4f9.gz"
+  },
+  "bridge/engine_payload/engine/src/session_manager.rs": {
+   "gz": 4482,
+   "sha256": "d0eb5c6a02aa04416eadb0e11f351edbdd725e86ad37dd740b5ed22540eb96eb",
+   "size": 19370,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/d0eb5c6a02aa04416eadb0e11f351edbdd725e86ad37dd740b5ed22540eb96eb.gz"
+  },
+  "bridge/engine_payload/engine/src/trade_forwarder.rs": {
+   "gz": 1483,
+   "sha256": "8f1bec3aae0f88b706913648090f4c0a27f9b1a9fb71a0a0fd81a46e358d0e5a",
+   "size": 4555,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/8f1bec3aae0f88b706913648090f4c0a27f9b1a9fb71a0a0fd81a46e358d0e5a.gz"
+  },
+  "bridge/engine_payload/engine/src/trade_journal.rs": {
+   "gz": 2180,
+   "sha256": "6403a7493fcdd3bf4ef6fd6a3b891319a27dad84ebc6ec7fc181ee932c969b12",
+   "size": 5254,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/6403a7493fcdd3bf4ef6fd6a3b891319a27dad84ebc6ec7fc181ee932c969b12.gz"
+  },
+  "bridge/engine_payload/engine/src/trader.rs": {
+   "gz": 416,
+   "sha256": "7760d1aba44158c7016bdb182549c0925d97e3029eb7f3aab81b741ea0b76dc4",
+   "size": 665,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/7760d1aba44158c7016bdb182549c0925d97e3029eb7f3aab81b741ea0b76dc4.gz"
+  },
+  "bridge/engine_payload/engine/src/unit_chart.rs": {
+   "gz": 6432,
+   "sha256": "a6f46ee77127e0f3d2dd6519003f6daa8e13016f6aace12227b4d30b98da28b6",
+   "size": 26944,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/a6f46ee77127e0f3d2dd6519003f6daa8e13016f6aace12227b4d30b98da28b6.gz"
+  },
+  "bridge/engine_payload/engine/src/websocket_manager.rs": {
+   "gz": 8754,
+   "sha256": "9d4329ac90d34ad064ed0a43841427c7509a78c3abe9f647817074c470f1fd1a",
+   "size": 60666,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/9d4329ac90d34ad064ed0a43841427c7509a78c3abe9f647817074c470f1fd1a.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/Cargo.lock": {
+   "gz": 14597,
+   "sha256": "8a4d156f5f1f924eb555ce73f097128e352bd6378008ff819dfc6e23d7cdf2a4",
+   "size": 61081,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/8a4d156f5f1f924eb555ce73f097128e352bd6378008ff819dfc6e23d7cdf2a4.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/Cargo.toml": {
+   "gz": 702,
+   "sha256": "f47396b8d366340c5c55d1b30c10b070d45ae88ab70017f8fa0d411b216c20dd",
+   "size": 1236,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/f47396b8d366340c5c55d1b30c10b070d45ae88ab70017f8fa0d411b216c20dd.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/build.rs": {
+   "gz": 177,
+   "sha256": "979819f265328a64f217cf25b3eeff850895239c1d3e9d352cc0fdd46872950f",
+   "size": 205,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/979819f265328a64f217cf25b3eeff850895239c1d3e9d352cc0fdd46872950f.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/account_orchestrator.rs": {
+   "gz": 4094,
+   "sha256": "d8479fadb9156b17f7251a57b2f9d1f33ecbbd0ecc329c54693fcd7137c178a6",
+   "size": 16711,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/d8479fadb9156b17f7251a57b2f9d1f33ecbbd0ecc329c54693fcd7137c178a6.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/auth.rs": {
+   "gz": 408,
+   "sha256": "dc76fa768221a6f31730d34417fe79c6736108b150956addd63272add3b08870",
+   "size": 567,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/dc76fa768221a6f31730d34417fe79c6736108b150956addd63272add3b08870.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/binance_api.rs": {
+   "gz": 8357,
+   "sha256": "6cf8d515963eb8757ac13af0448bf4efcff678abea66d5317d55afbb7630ddf7",
+   "size": 28572,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/6cf8d515963eb8757ac13af0448bf4efcff678abea66d5317d55afbb7630ddf7.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/engine.rs": {
+   "gz": 8362,
+   "sha256": "d7147a26d60b67d999a92fe5b38c3da9a977cbef64e7d775fc483b9a06f561e2",
+   "size": 37855,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/d7147a26d60b67d999a92fe5b38c3da9a977cbef64e7d775fc483b9a06f561e2.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/exit_grid.rs": {
+   "gz": 16168,
+   "sha256": "c6c3bf11f9092cc7c3ae36a3546a002d218ae15a906ca1acc8c22beb63733dfc",
+   "size": 65268,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/c6c3bf11f9092cc7c3ae36a3546a002d218ae15a906ca1acc8c22beb63733dfc.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/exit_grid_calc.rs": {
+   "gz": 12240,
+   "sha256": "6411a5d4c60d82f68f6098762dee28e3b5e5880a2a67694d5f284818c2d6c98c",
+   "size": 49696,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/6411a5d4c60d82f68f6098762dee28e3b5e5880a2a67694d5f284818c2d6c98c.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/exit_grid_sim.rs": {
+   "gz": 11410,
+   "sha256": "640005bc6405199256d9d457a2bd27f70375999861adf4d0ab15e4f035067112",
+   "size": 44320,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/640005bc6405199256d9d457a2bd27f70375999861adf4d0ab15e4f035067112.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/grid.rs": {
+   "gz": 1309,
+   "sha256": "09bb09b8cbec15fe922890c8c6bb45e71e0cdfa7ec369c266f3e00c004a10b50",
+   "size": 3648,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/09bb09b8cbec15fe922890c8c6bb45e71e0cdfa7ec369c266f3e00c004a10b50.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/grid_scale.rs": {
+   "gz": 3800,
+   "sha256": "0ec19bda835640b7a606727013683c36d05620618c36d8f24686428982733a84",
+   "size": 12644,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/0ec19bda835640b7a606727013683c36d05620618c36d8f24686428982733a84.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/main.rs": {
+   "gz": 16013,
+   "sha256": "7b907677f4f1f64d9addd37ce2c9b43d5cd42918abea21e782eb05dc95e3f22e",
+   "size": 86752,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/7b907677f4f1f64d9addd37ce2c9b43d5cd42918abea21e782eb05dc95e3f22e.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/market_data.rs": {
+   "gz": 2740,
+   "sha256": "057a78d0d3fd3fe943bb6fea81d8759cfb17c0acefb536bcdbe75db33eb99377",
+   "size": 8855,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/057a78d0d3fd3fe943bb6fea81d8759cfb17c0acefb536bcdbe75db33eb99377.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/market_data_manager.rs": {
+   "gz": 1844,
+   "sha256": "16f2ffdabe00952441f1a0bce0a8663938cfad4accda2eba3a3d3f2c99472897",
+   "size": 6699,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/16f2ffdabe00952441f1a0bce0a8663938cfad4accda2eba3a3d3f2c99472897.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/order_manager.rs": {
+   "gz": 11109,
+   "sha256": "5fd509bcc8ca184c1f3a774c53404da2cc375dda93c363844243b14bd6c78254",
+   "size": 57278,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/5fd509bcc8ca184c1f3a774c53404da2cc375dda93c363844243b14bd6c78254.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/risk_manager.rs": {
+   "gz": 2648,
+   "sha256": "7d2e5c62060ed26b76352b42dbedc6dacd292b587b10fabbcc3484c7d49ffc5c",
+   "size": 13149,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/7d2e5c62060ed26b76352b42dbedc6dacd292b587b10fabbcc3484c7d49ffc5c.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/session_manager.rs": {
+   "gz": 4482,
+   "sha256": "d0eb5c6a02aa04416eadb0e11f351edbdd725e86ad37dd740b5ed22540eb96eb",
+   "size": 19370,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/d0eb5c6a02aa04416eadb0e11f351edbdd725e86ad37dd740b5ed22540eb96eb.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/trade_forwarder.rs": {
+   "gz": 1483,
+   "sha256": "8f1bec3aae0f88b706913648090f4c0a27f9b1a9fb71a0a0fd81a46e358d0e5a",
+   "size": 4555,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/8f1bec3aae0f88b706913648090f4c0a27f9b1a9fb71a0a0fd81a46e358d0e5a.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/trade_journal.rs": {
+   "gz": 2180,
+   "sha256": "6403a7493fcdd3bf4ef6fd6a3b891319a27dad84ebc6ec7fc181ee932c969b12",
+   "size": 5254,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/6403a7493fcdd3bf4ef6fd6a3b891319a27dad84ebc6ec7fc181ee932c969b12.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/trader.rs": {
+   "gz": 416,
+   "sha256": "7760d1aba44158c7016bdb182549c0925d97e3029eb7f3aab81b741ea0b76dc4",
+   "size": 665,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/7760d1aba44158c7016bdb182549c0925d97e3029eb7f3aab81b741ea0b76dc4.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/unit_chart.rs": {
+   "gz": 6432,
+   "sha256": "a6f46ee77127e0f3d2dd6519003f6daa8e13016f6aace12227b4d30b98da28b6",
+   "size": 26944,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/a6f46ee77127e0f3d2dd6519003f6daa8e13016f6aace12227b4d30b98da28b6.gz"
+  },
+  "bridge/engine_payload/engine_vladimir/src/websocket_manager.rs": {
+   "gz": 9000,
+   "sha256": "9bedca4f6bfcb2216d3deaca8d4bebe26a912debf9f80d2ade401b19cc96449d",
+   "size": 61757,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/9bedca4f6bfcb2216d3deaca8d4bebe26a912debf9f80d2ade401b19cc96449d.gz"
+  },
+  "bridge/engine_payload/install_engine.sh": {
+   "gz": 3387,
+   "sha256": "df8119116341df7c2896a0994440e7db063a67fb52e5ce1cee153fc1f4e8ecf3",
+   "size": 8174,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/df8119116341df7c2896a0994440e7db063a67fb52e5ce1cee153fc1f4e8ecf3.gz"
+  },
+  "bridge/engine_payload/scalper_engine.service": {
+   "gz": 341,
+   "sha256": "b3db1c45d0e4d94a69691c1266dc21bf2752f163fe70fd2d8e6a3e44dfcb30f1",
+   "size": 481,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/b3db1c45d0e4d94a69691c1266dc21bf2752f163fe70fd2d8e6a3e44dfcb30f1.gz"
+  },
+  "bridge/payload/grok_scalper/grok-scalper.service": {
+   "gz": 220,
+   "sha256": "c9b730bc4da2371665f5f506d366c5fc66009e9c3b089645a7dbcfc95395e61c",
+   "size": 299,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/c9b730bc4da2371665f5f506d366c5fc66009e9c3b089645a7dbcfc95395e61c.gz"
+  },
+  "bridge/payload/grok_scalper/install_grok_scalper.sh": {
+   "gz": 1885,
+   "sha256": "539aa30a0ffb7613812573671f353f643ba2495ef7311e834dfebd7224090809",
+   "size": 4250,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/539aa30a0ffb7613812573671f353f643ba2495ef7311e834dfebd7224090809.gz"
+  },
+  "bridge/payload/grok_scalper/semi_manual/__init__.py": {
+   "gz": 210,
+   "sha256": "6e4c505d9ffa99fe65c8fad6683ea5619856196fb797dc2679a0b9ff321dbc81",
+   "size": 256,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/6e4c505d9ffa99fe65c8fad6683ea5619856196fb797dc2679a0b9ff321dbc81.gz"
+  },
+  "bridge/payload/grok_scalper/semi_manual/binance_client.py": {
+   "gz": 12850,
+   "sha256": "5fbe87d2a90fe0dd400dd8ae8fc8d66acbcf6f2459999a974c7c50a3ae7714fd",
+   "size": 47907,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/5fbe87d2a90fe0dd400dd8ae8fc8d66acbcf6f2459999a974c7c50a3ae7714fd.gz"
+  },
+  "bridge/payload/grok_scalper/semi_manual/binance_signing.py": {
+   "gz": 744,
+   "sha256": "7aa16a50cf1cb31aae8de1cfe55d24f275212168e43cbbf905603370317cf1d4",
+   "size": 1509,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/7aa16a50cf1cb31aae8de1cfe55d24f275212168e43cbbf905603370317cf1d4.gz"
+  },
+  "bridge/payload/grok_scalper/semi_manual/decimals.py": {
+   "gz": 723,
+   "sha256": "698e06eb5aa528e791087a2649f1e6d75a699a18698df6a8be07ff3ababcc0e6",
+   "size": 1835,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/698e06eb5aa528e791087a2649f1e6d75a699a18698df6a8be07ff3ababcc0e6.gz"
+  },
+  "bridge/payload/grok_scalper/semi_manual/errors.py": {
+   "gz": 384,
+   "sha256": "0ba173e618981f1eda4d4c1f01b3e8f279dad08a173e85f5663ce630198ef09e",
+   "size": 848,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/0ba173e618981f1eda4d4c1f01b3e8f279dad08a173e85f5663ce630198ef09e.gz"
+  },
+  "bridge/payload/grok_scalper/semi_manual/market.py": {
+   "gz": 1273,
+   "sha256": "b0346acc10cc25d707e9a5563099e8b8d608e3cd7ee071aed7c061fdb9ad03d8",
+   "size": 4357,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/b0346acc10cc25d707e9a5563099e8b8d608e3cd7ee071aed7c061fdb9ad03d8.gz"
+  },
+  "bridge/payload/grok_scalper/semi_manual/rsigate.py": {
+   "gz": 4146,
+   "sha256": "124d0c63fa574e802e96684f8e00e5c6abd97cfa50a8b91ce5a5aab67c20dbdb",
+   "size": 11934,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/124d0c63fa574e802e96684f8e00e5c6abd97cfa50a8b91ce5a5aab67c20dbdb.gz"
+  },
+  "bridge/payload/grok_scalper/semi_manual/scalper_desk.py": {
+   "gz": 25950,
+   "sha256": "f3d0ee93920922b9d8ff20422e59ae5118d3aa1d81968d535d595434926b1be4",
+   "size": 110601,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/f3d0ee93920922b9d8ff20422e59ae5118d3aa1d81968d535d595434926b1be4.gz"
+  },
+  "bridge/payload/grok_scalper/semi_manual/scalper_node.py": {
+   "gz": 9267,
+   "sha256": "a4240465282984d6ccfd05dc96984fbbbb53660c639db7f9a9dd69bea64f5806",
+   "size": 37044,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/a4240465282984d6ccfd05dc96984fbbbb53660c639db7f9a9dd69bea64f5806.gz"
+  },
+  "bridge/payload/grok_scalper/semi_manual/vwapgate.py": {
+   "gz": 2146,
+   "sha256": "bb16372aea9faaf60cb6183a0dd3410efc0de5911c517d31f9c5d8553aa9768c",
+   "size": 5054,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/bb16372aea9faaf60cb6183a0dd3410efc0de5911c517d31f9c5d8553aa9768c.gz"
+  },
+  "bridge/payload/grok_scalper/tests/test_multi_account.py": {
+   "gz": 5030,
+   "sha256": "e83b99b61bcdfdd5ccc543f809ed205b28d297fd3c7bc17841c94e17c2203f61",
+   "size": 22293,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/e83b99b61bcdfdd5ccc543f809ed205b28d297fd3c7bc17841c94e17c2203f61.gz"
+  },
+  "ПРОЧТИ.txt": {
+   "gz": 1637,
+   "sha256": "4d49344a25be3bd897dcfe4fc0d581c8461f697428942994d2cd1f05aa673dc7",
+   "size": 3482,
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/4d49344a25be3bd897dcfe4fc0d581c8461f697428942994d2cd1f05aa673dc7.gz"
+  }
+ },
+ "format": 1,
+ "install_zip": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/Hugin.zip",
+ "notes": "",
+ "py": {
+  "key": "1f1e360524705e733373281da59f12f731a814e82268549371b59cfdd4bd38c1",
+  "sha256": "17b7dd1228cabe385b60ef1ab460a894bd1ebd68ad4a3e293cf8ec25b0214b64",
+  "size": 60845687,
+  "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/py-1f1e36052470.zip"
+ },
+ "tag": "v2026.11.23-1127",
+ "version": "2026.11.23-1127"
+}
