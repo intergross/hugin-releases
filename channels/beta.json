@@ -1,7 +1,7 @@
 {
- "built": "2026-11-24T17:57:34Z",
+ "built": "2026-11-24T18:05:33Z",
  "channel": "beta",
- "commit": "764b8d34829098561796863efd324fb401841a7a",
+ "commit": "33e94fa72cf0df76d5b9df74d95d65a74004e65a",
  "files": {
   "Hugin.cmd": {
    "gz": 619,
@@ -82,10 +82,10 @@
    "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1127/7f624f8c04e9801457f8a246198e92bab628963c689c328fb6f667ccf207054a.gz"
   },
   "bin/terminal7.exe": {
-   "gz": 6606208,
-   "sha256": "a91ab70c675f6c313682a64bba92db610bcbe05f8147efd4dcb06924cc2fd481",
+   "gz": 6606319,
+   "sha256": "c81224f25377107a85e8cdf44d193785db4dbe372e39db3e8ca0fa49a8b547e9",
    "size": 10108928,
-   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.24-1757/a91ab70c675f6c313682a64bba92db610bcbe05f8147efd4dcb06924cc2fd481.gz"
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.24-1805/c81224f25377107a85e8cdf44d193785db4dbe372e39db3e8ca0fa49a8b547e9.gz"
   },
   "bin/tester_lib/blocks.py": {
    "gz": 18971,
@@ -546,13 +546,13 @@
   },
   "ПРОЧТИ.txt": {
    "gz": 1637,
-   "sha256": "9fea277478419588b43175b7ff0fb30a1336921c459410444174afb7c0fa0f44",
+   "sha256": "345741e248e24979011934b810e8f0d24d4bb8af495bbb2c3f4b2a15d188a2dc",
    "size": 3482,
-   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.24-1757/9fea277478419588b43175b7ff0fb30a1336921c459410444174afb7c0fa0f44.gz"
+   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.24-1805/345741e248e24979011934b810e8f0d24d4bb8af495bbb2c3f4b2a15d188a2dc.gz"
   }
  },
  "format": 1,
- "install_zip": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.24-1757/Hugin.zip",
+ "install_zip": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.24-1805/Hugin.zip",
  "notes": "",
  "py": {
   "key": "a3d0053e4594b97b2f5575b38bf1544e7f4d0f719c63d542f1f7d75d6d295cfb",
@@ -560,6 +560,6 @@
   "size": 60845679,
   "url": "https://github.com/intergross/hugin-releases/releases/download/v2026.11.23-1159/py-a3d0053e4594.zip"
  },
- "tag": "v2026.11.24-1757",
- "version": "2026.11.24-1757"
+ "tag": "v2026.11.24-1805",
+ "version": "2026.11.24-1805"
 }
